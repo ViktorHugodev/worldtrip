@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">World Trip ✈️<h1>
 
-## Getting Started
 
-First, run the development server:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71772559/113537236-741f7980-95ae-11eb-8e58-dc35845007c5.png" />
 
-```bash
-npm run dev
-# or
-yarn dev
+
+
+## 📚 Informações sobre o projeto
+
+* Esse projeto foi desenvolvido durante um dos desafios dos capitulos do Ignite da Rocketseat! A ideia era desenvolver um site do zero seguindo o layout do Figma usando apenas o sistema do Chakra-UI.
+
+&nbsp;
+___
+&nbsp;
+
+
+## 🛠️ Tecnologias/Ferramentas ultilizadas
+
+* [React](https://pt-br.reactjs.org/E)
+* [Next.js](https://nextjs.org/)
+* [Chakra UI](https://chakra-ui.com/)
+* [Swiper](https://swiperjs.com/react)
+
+&nbsp;
+___
+&nbsp;
+
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/ViktorHugodev/worldtrip.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+# Acesse a pasta da aplicação
+$ cd tourism-world
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# Crie um arquivo .env.local e coloque as variaveis
+# de ambiente baseado no arquivo .env.example que
+# se encontra na pasta worldtrip
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# Instale as dependências
+$ yarn
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Inicie a aplicação
+$ yarn start
 
-## Learn More
+```
 
-To learn more about Next.js, take a look at the following resources:
+&nbsp;
+___
+&nbsp;
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📝 Licença
+- Este projeto está licenciado sob a Licença MIT. Veja o arquivo de LICENÇA para detalhes.
+&nbsp;
+___
+&nbsp;
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">Feito por Victor Hugo<p>
